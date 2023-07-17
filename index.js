@@ -1,8 +1,7 @@
-const add = (c, b) => {
-    return c + b;
-  }
-  
-  module.exports = {
-    add
-  };
-  
+const add = (e, b) => {
+  return e + b;
+};
+
+module.exports = {
+  add,
+};
